@@ -1,0 +1,10 @@
+[
+  {
+    "id": "c6a8a038-44ec-41f5-9a50-12ef5d342aa6",
+    "name": "utkarsh",
+    "email": "admin@housing.com",
+    "password": "$2a$10$6eRctoBvGV0OsnXmWOmsWeeat6qAQnjMs.xaor5ESwcYEzSNSy0nm",
+    "role": "user",
+    "createdAt": "2026-03-18T16:35:44.963Z"
+  }
+]
